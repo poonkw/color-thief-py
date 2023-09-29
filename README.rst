@@ -3,6 +3,13 @@ Color Thief
 
 A Python module for grabbing the color palette from an image.
 
+Changes
+-------
+
+ColorThief now accepts opened image files as well.
+
+ColorThief also extracts white colors (r, g or b values > 250).
+
 Installation
 ------------
 
